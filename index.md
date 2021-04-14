@@ -1,13 +1,15 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Bert Riffelmachers's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Bert Riffelmacher
+Computer Science BSc
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mail@bert-riffelmacher.de">mail@bert-riffelmacher.de</a>
+| <i class="fa fa-github"></i> <a href="http://github.com/sotsoguk">sotsoguk</a>
+|
+<i class="fa fa-twitter"></i> <a href="http://twitter.com/sotsoguk">sotsoguk</a>
 </div>
 
 
@@ -27,18 +29,20 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1991-1998`
+__Gymnasium Roth &emsp;Abitur(1,9)__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`1999 - 2000`
+__Studium Dipl. Informatik (FAU Erlangen-Nürnberg)__
 
-- Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2000 - 2004`
+__Studium LAG Deutsch / Englisch (FAU Erlangen-Nürnberg)__
 
-- Fellow
+`2004 -2007`
+__Studium LAG Mathematik / Physik (FAU Erlangen-Nürnberg)__
+
+`2008 - 2011`
 
 
 
