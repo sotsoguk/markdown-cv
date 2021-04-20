@@ -67,14 +67,7 @@ _Indoor Scene Reconstruction using the Microsoft Kinect Sensor_
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
